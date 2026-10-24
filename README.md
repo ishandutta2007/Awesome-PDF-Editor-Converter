@@ -1,6 +1,6 @@
 # Awesome-PDF-Editor-Converter
 
-# Top PDF Editor & Converter Ecosystem
+## Top PDF Editor & Converter Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Self-Hosted Editing, Browser-Local Conversion & Offline-First Document Management*  
