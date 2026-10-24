@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94bblueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-PDF-Editor-Converter/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-PDF-Editor-Converter?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-PDF-Editor-Converter/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-PDF-Editor-Converter?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-PDF-Editor-Converter/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-PDF-Editor-Converter?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-PDF-Editor-Converter/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-PDF-Editor-Converter?style=flat-square&color=green" alt="Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-PDF-Editor-Converter/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-PDF-Editor-Converter?style=flat-square&color=teal" alt="License"/></a>
@@ -64,7 +64,7 @@ The following commercial SaaS and desktop platforms deliver turnkey PDF editing,
 ## 💻 Open-Source GitHub Projects
 
 Explore the most prominent open-source repositories for self-hosted PDF management, web viewers, command-line utilities, and developer libraries.  
-*All open-source projects below are sorted in descending order by GitHub stargazers count, with real-time star badges linking directly to each repository's stargazers page.*
+*All open-source projects below are sorted in descending order by GitHub stargazers count, with real-time Stars_Badges linking directly to each repository's stargazers page.*
 
 ---
 
@@ -298,7 +298,7 @@ Contributions are welcome and appreciated! To add a new platform or update exist
 3. Edit `README.md`:
    - Follow the established table or card formatting.
    - For SaaS tools: provide exact starting price tiers, verified company size, and specific free tier / trial terms.
-   - For open-source tools: include the repository link, star badge linked to stargazers, license, tech stack, and privacy posture.
+   - For open-source tools: include the repository link, Stars_Badge linked to stargazers, license, tech stack, and privacy posture.
 4. **Commit** your changes with clear messages (`git commit -m "Add New-PDF-Tool to open-source section"`).
 5. **Push** to your fork (`git push origin feature/add-new-pdf-tool`).
 6. Submit a **Pull Request (PR)** with a summary of the additions.
